@@ -1,0 +1,3 @@
+[submodule "capacitor-android-shell-exec"]
+	path = capacitor-android-shell-exec
+	url = https://github.com/nav-smith-is-a-nickname/capacitor-android-shell-exec
