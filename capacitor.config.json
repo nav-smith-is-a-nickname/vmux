@@ -1,0 +1,10 @@
+{
+  "appId": "com.vmux.notrealdomain",
+  "appName": "VMux",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
